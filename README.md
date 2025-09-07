@@ -1,4 +1,4 @@
 # firstgithub-demo
 This is my first Git Repository
 <br>
-Author - Naveen Kumar Tak
+Author - Naveen (shivangi Enterprises)
